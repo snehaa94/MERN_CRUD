@@ -2,6 +2,10 @@
 
 A simple **CRUD (Create, Read, Update, Delete)** application built using the **MERN** stack (MongoDB, Express.js, React, Node.js). This app allows users to manage a collection of books by adding, updating, deleting, and viewing details of books.
 
+## Use
+
+- Click on GetStarted
+
 ## Features
 
 - **Create**: Add new books to the list with details like title, author, and publish year.
